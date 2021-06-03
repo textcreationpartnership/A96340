@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Universal love to the lost: with the voice of the chief-sheep-herd, to gather the scattered number together.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96340</idno><idno type="EEBO-CITATION">47683534</idno>
+  <idno type="VID">172991</idno>
+  <idno type="EEBO-PROQUEST">2240883371</idno>
+  
+            <idno type="STC">Wing W1756</idno>
+            <idno type="STC">ESTC R186482</idno>
+            <idno type="OCLC">47683534</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Universal love to the lost: with the voice of the chief-sheep-herd, to gather the scattered number together.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Dorothy White by Wing (2nd ed.).</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained, tightly bound and cropped, with considerable loss of text, possible loss of imprint and author's name. Best copy available for photographing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">God --  Love --  Quaker authors.</term>
+               <term type="topical_term">Inner light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:172991:1"/>
+            <head>
+               <hi>Vniversal Love to the Lost:</hi> WITH The Voice of the CHIEF-SHEEP<g ref="char:EOLhyphen"/>HERD, to gather the scattered NUMBER together.</head>
+            <epigraph>
+               <q>
+                  <p>There are other Sheep which are not of this Fold, those will I gather toge<g ref="char:EOLhyphen"/>ther, and they shall be one Fold, and have no other Sheepherd over them.</p>
+                  <p>I will feed my Sheep my self like a Sheepherd, and lead them by the Foun<g ref="char:EOLhyphen"/>tains of Water, and call them by my own Name.</p>
+               </q>
+            </epigraph>
+            <p>GOD who commanded Light to shine out of Darkness, hath most gloriously shined into our Hearts, which hath given us the Light and Knowledge of the Glory of God in the Face of Jesus Christ, the Son of the Fathers Love, the First Begotten from the Dead, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e First Born of many Brethren; and he being the Express Image of the Glo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of the F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, he hath revealed him, and he that revealeth the Father is the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, and no Man knoweth the Father but him, and they whom the Son is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eased to reveal him unto: and this was the desire of the true Desciples, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew us the Father, and it suffiseth us.</hi> So that was their Satisfaction, who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere come to the State of Lively begotten Children of the Father of Life, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey may come to behold and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e his Out-going and Revealings, and clear di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overies of him in their own Souls and inward Parts; and so blessed are they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose Eyes do see, and whose Ears do hear, and whose Hearts do understand <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose things that belong to their Eternal Peace. Such come to say, Lord I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e heard of thee by the hearing of the Ear, but now mine Eyes see thee, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that Eye which was shut, which Christ came to open <hi>the blind Eyes,</hi> and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> stop the Ears that are deaf, the spiritual Eye, <hi>the Eye of the Ʋnderstand<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> by which the Children of God come to see him revealed in them through <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Son Jesus Christ; <hi>so the Ear which is unstopt comes to hear his Voice,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reby comes <hi>to live.</hi> Behold the day is come, that they that are dead shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Voice of the Son of God, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>they</hi> shall live; and this voice is near unto <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty one, it is even in them, he stands <hi>at the Door,</hi> and knocks at the Door of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hearts, there stands the Reprover and Shewe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172991:2"/> Life, and to bring them into it: this is the Lord in his Love, manifesting his great Kindness unto his Creation in visiting them with his day spring from on high; so that the People that sate in Darkness, and under the Region and Shadow of Death, they have seen the miraculous Light to shine, the Light of the Son of God, which for a long time hath shined in Darkness, and hath striven with Mankind, as he did with the <hi>Old World,</hi> that perished in their Gainsay<g ref="char:EOLhyphen"/>ing: how often did the Lord visit <hi>Jerusalem</hi> by his Prophets, and also by his Spirit; <hi>Yea all the day long have I stretched out my hand unto a Rebellious Na<g ref="char:EOLhyphen"/>tion, a steff necked and a gainsaying hard-hearted Generation;</hi> who would have none of him, <hi>we desire not the Knowledge of Thee and thy Ways:</hi> he took up his Lamentation over the City, over <hi>Jerusalem,</hi> and thus he wept over them when they could not weep for themselves, such was their Blindness that then was happened to them, and the hardness of their Hearts which they were given up to when the Lord left them; with thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Saying, lamenting over them with this Lamentation, <hi>O Jerusalem! Jerusalem! how often would I have ga<g ref="char:EOLhyphen"/>thered thy Children as a Hen gathereth her Chickens under her Wings, but ye would not.</hi> So it was in their will &amp; gainsaying that they perished from the knowledge of God; For <hi>they will not come unto me</hi> (saith Christ) <hi>that they may have Life:</hi> So let all that are a Thirst come and take of the Water of Life fre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly; yea, the Spirit saith, <hi>Come;</hi> and the Bride saith <hi>Come,</hi> and whosoever will, let him come buy Wine and Milk without Money, and without Price; for this day the Fountain is open for <hi>Judah</hi> and <hi>Jerusalem,</hi> and all, the Sons and Daughters of Men are invited to come in, yea all Prodigals, as well as the <hi>Pro<g ref="char:EOLhyphen"/>digal Son,</hi> who was afar off, and when he looked back, and saw how far off he was from his Father's House, and what he was eating of, and could not be sa<g ref="char:EOLhyphen"/>tisfied therewith, but took up this Resolution, <hi>I will again return unto my Fa<g ref="char:EOLhyphen"/>thers House:</hi> and indeed with speed it is good to take this Resolution and serious Consideration and Examination: Am I out of my Father's House, and do I see my self at so far a Distance from him? then with the poor <hi>Prodigal</hi> I will take up this Resolution, and return thither again.</p>
+            <p>And once I experienced this, having no satisfaction until I returned again from all wandring, and seeking the <hi>Living</hi> amongst the <hi>Dead,</hi> and feeding of the Husks, where no Living Bread was to be found; and after my turning my back upon <hi>Aegypts</hi> Land, and all that was there, and returning into the Fa<g ref="char:EOLhyphen"/>thers House, I came to see there was Bread enough for all his hired Servants; And this Prodigal returning to the Father, the Father meeting him in the way, fell about his Neck with much Love; it is said, he <hi>kissed,</hi> or <hi>imbraced</hi> him, that is, so received him at his return, such was the Salutation and Visitation, and Bowels of the Fathers Love; so at the last he was brought home with<g ref="char:EOLhyphen"/>in the Fathers House, and as it is said, <hi>he put his Robe upon him,</hi> that is, the <hi>Wedding Garment,</hi> which all must know, put on upon them after their Return; then he saith, <hi>This is my Son;</hi> when he had cloathed him like his Son: <hi>This is m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> So<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:172991:2"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eration &amp; Alienation from God, and <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>behold Iniquity;</hi> return unto him who doth often smite you for it, to that end he would awaken you out of your sleep of <hi>Apostacy,</hi> that you may arise from the Dead, that Christ may give you Life, who came to Save and give Life to all Mankind, and was the <hi>New Covenant</hi> that God gave unto the <hi>Gentiles,</hi> and for to be Salvation to the Ends of the Earth, and for a Light and a Leader. So the Nations of those that are saved must walk in the Light of the Lord, and of the Lamb; and unto him that is the <hi>Light</hi> all must know their Minds turn<g ref="char:EOLhyphen"/>ed and retired, for the true Messenger and Message was, to turn People from <hi>Darkness</hi> to <hi>Light,</hi> yea, to the <hi>Light</hi> of Jesus which was in them, and from the Power of <hi>Sathan</hi> to the Power of <hi>God;</hi> and this is the Message which we have heard from the Beginning, that <hi>God is Light, and in him is no Darkness at all: and if we walk in the Light as he is in the Light, then have we Followship with God and one with another, and the blood of Jesus Christ cleanseth us from all Sin.</hi> And <hi>He that is born of God sinneth not, neither indeed can he, because he is born of that Word in which no Sin ever dwelt.</hi> And, <hi>In the Beginning was the Word;</hi> that makes a Seperation from Sin; now are you made clean by the Word; <hi>O Father sanctifie them by thy Truth, for thy Word is Truth.</hi> The Word of <hi>Creation,</hi> that created all things in the Beginning without Sin, the Word of the Second Creation, <hi>Behold I create all things New, New Heavens and New Earth, wherein dwelleth Righteousness.</hi> And this is the <hi>New Creation,</hi> the Heavenly Generation, the Generations of the Heavens wherein God Created them: these know the first day's Work, the <hi>Light</hi> separated from the <hi>Dark<g ref="char:EOLhyphen"/>ness</hi> in them: these also know the Six days Work, wherein God Created the <hi>New Heavens</hi> and the <hi>New Earth,</hi> and resteth in the <hi>Seventh;</hi> which is the only Sabbath of all the <hi>Saints</hi> and <hi>sanctified Ones;</hi> yea, a <hi>Sabbath</hi> of Rest, a glorious Rest hath the Lord prepared for all the Righteous, for all the Saints and sanctified Ones, for all the true Travellers <hi>Zion-wards,</hi> this is the Cry of all the <hi>Sanctified Ones, O shew us the Place where thou causest thy Flock to lye down and rest at Noon.</hi> So they are as restless as the <hi>Dove</hi> that could find no Rest for the Sole of her Foot till she returned into the ARK unto <hi>Noah.</hi>
+            </p>
+            <p>So all must return into the <hi>Ark</hi> of God's <hi>Covenant,</hi> into his Name and his Power, which is the strong Tower, a safe Defence and hiding Place, a Habita<g ref="char:EOLunhyphen"/>tation and sure Refuge that never fails, a Foundation that standeth sure and safe throughout all <hi>Storms,</hi> and blessed are they that build thereon, they stan<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sure as Mount <hi>Zion,</hi> that cannot be removed, and blessed are such, for the<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will endure to the End, and the same that endureth to the End, the same sha<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be saved, and the End is the <hi>Salvation</hi> of God; He was in the Beginning, an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laid for a Foundation for many Generations; the Foundation Stone, which a true and faithful Builders builded upon him, and no other Foundation can an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man lay but the Foundation of God, which standeth sure throughout Ages an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Generations: this was the Foundation on which all the <hi>Prophets</hi> and <hi>Apostle</hi> were built; on which the Church of God was firmly fixed, the chief and ele<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172991:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172991:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:172991:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172991:4"/>
+               <pb facs="tcp:172991:5"/>
+               <hi>Corn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld was a chief <hi>Cor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> World was, before <hi>Ahraham</hi> was, he saith, <hi>I am:</hi> but the wise Master-Builders of the World in all <hi>Ages,</hi> the Master-Builders of this World rejected this <hi>Corner-Stone,</hi> as he said, <hi>Behold I lay in Zion for a stone of stumbling, and a Rock of Offence.</hi>
+            </p>
+            <p>They were offended in him, they could not receive him, because he came not in their way &amp; Expectation, but to reprove them: so they hated the Reproof of Instruction, which would have brought them into the way of Life Everlast<g ref="char:EOLhyphen"/>ing. Such was the blindness which then happened unto them, they could not see the <hi>Messias,</hi> nor his coming unto them, although they heard of him by the hearing of the Ear, and the Prophets prophesying of him, and of his com<g ref="char:EOLhyphen"/>ing being manifested, and to come into the World; they had heard of all this, and yet when he came they were Enemies unto him, and would not re<g ref="char:EOLhyphen"/>ceive him, he was in the World, and the World knew him not, they did not re<g ref="char:EOLhyphen"/>ceive him, he came unto his <hi>Own,</hi> and his <hi>Own</hi> received him not, such was their blindness that happened unto the Jews who were his own, this was their saying, <hi>Are we also blind, because you say you see, therefore your Sins remain;</hi> he had a sharp R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>proof to them, <hi>Except ye believe that I am he, you shall dye in your Sins:</hi> and, <hi>Whether I go ye cannot come.</hi> And he told his Desciples of his Departure and leaving of them, and their Hearts being sorrowful with these Sayings, he saith, <hi>I will not leave you Comfortless, but I must go to the Fa<g ref="char:EOLhyphen"/>ther.</hi> He must ascend where he was b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore. Again, <hi>I must leave the World, and go to the Father.</hi> So must all leave the World behind them, the Glory, and things of the World; if they mean to ascend to the Father, they must be translated from Death unto Life; they must be changed, and know a dying dayly, and a Crucifying, and a Mortifying, and a passing from Death unto Life; first, a baptizing by <hi>Water</hi> unto Repentance, unto Newness of Life: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>econdly, a baptizing with the Holy Ghost and with Fire: first, you must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>now the Baptisme of <hi>John,</hi> who cried in the Wilderness, <hi>Prepare the Way of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord, make his Paths straight.</hi> So those that come to Repentance from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir dead Works, they come to know their Path made strait, wherein they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alk't; such come to know their Repentance never to be repented of, these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to know their Mourning, Weeping and Wailing because of him, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver him whom they have pierced, as a Woman mourneth and weepeth for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er <hi>First-born,</hi> and the <hi>Tribes</hi> of the Earth shall mourn, and <hi>Lamentation</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrow</hi> shall beset many; yea, the <hi>Proud</hi> and the <hi>Lofty,</hi> a day shall overtake <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m at unawares, yea, when they shall think least of it, then shall <hi>Sorrow</hi> over<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke them as a Woman in <hi>Travel,</hi> and they shall not escape; if they would <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Mountains, they should not hide them; if they cry to the Hills, <hi>fall us and cover us from the wrath of him, and of the Lamb that sitteth upon the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rone;</hi> they shall not escape him, nor the Vengeance written, which sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon his Enemies, yea, all sorts of them shall then fall and fail, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Faces <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll gather Paleness before him when he rideth upon the <hi>White Horse,</hi> whose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et are as fine <hi>Brass,</hi> he will tread the <hi>Wine-Press</hi> alone, he will tread
+<pb facs="tcp:172991:5"/> down his Enemies in his fierce anger, and <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Briars</hi> and <hi>Brambles</hi> make War with him? behold he will burn them up with unquenchable Fire; when he hath winnowed and thrashed the Chaff from the Wheat, and separated the <hi>Goats</hi> from the <hi>Sheep,</hi> then shall he set the <hi>Sheep</hi> on his Right Hand, they are on his Right Hand still; <hi>The Lord said unto my Lord, sit thou on my Right Hand till I make thine Enemies thy Footstools:</hi> So the Lord God everlasting hath determined to slay his Enemies, who saith, <hi>Bring all these mine Enemies, who will not that I shall reign over them, that I may slay them be<g ref="char:EOLhyphen"/>fore me.</hi> So the Slain of the Lord shall be many; therefore kiss the Son; least his fierce anger break forth upon you, and ye perish from the right way, least it be said unto you, <hi>Behold ye Wonderers and Despisers,</hi> and perish: <hi>I will work a Work in this your day, in which ye will no ways believe although it be de<g ref="char:EOLhyphen"/>clared unto you.</hi> It is indeed the day of your Visitation, a day wherein the Lord is visiting you with his Sound of the everlasting Gospel, sounding in your Ears; and whil'st it is called to day, if you will hear his Voice harden not your Hearts against him, who is come to visit and to preach, and sound the Everlasting Gospel again to the Spirits in Prison, and to the disobedient; as in the days of <hi>Noah,</hi> it is now come to pass again, the flying Angel is flying forth through the midst of Heaven, having the Everlasting Gospel to preach, crying with a loud Voice unto the Inhabitants of the Earth, saying, <hi>Fear God, give Glory to his Name, for the hour of his Judgments is come;</hi> saying, <hi>Worship him who made Heaven and Earth, the Sea and the Fountains of Water.</hi> And all the true Worshippers must be gathered unto him out from all the false Wor<g ref="char:EOLhyphen"/>shippers; for our God is a <hi>Spirit,</hi> and all must worship him in <hi>Spirit</hi> and in <hi>Truth:</hi> and such Worshippers is our God seeking to worship him, he is send<g ref="char:EOLhyphen"/>ing out into the <hi>Hedges</hi> and <hi>High-ways,</hi> saying, <hi>Compel them co come in, that my House may be filled this day with Guess,</hi> for the Marriage of the <hi>Lamb</hi> is come, and all are invited to come to the Feast, to the Wedding Dinner; to the Supper of the <hi>Lamb,</hi> behold <hi>I and my Father will come in and sup with him, and he with me:</hi> and, <hi>He that cometh unto me I will in no wise cast off.</hi> And he saith, <hi>Come unto me all ye that are weary and heavy Laden, and ye shall find Rest for your Soul. Take my Yoke upon you, for my Yoke is easie, and my Burden is light.</hi> Therefore cast off every weight, &amp; every Burden, &amp; every Sin that doth so easily beset you and run with patience the Race that is set before you: and, <hi>He that findeth me, findeth Life; therefore seek, and ye shall find; ask, and it shall be given you; knock and it shall be opened unto you: seek the Kingdom of God and the Righteousness thereof, and all things shall be added: seek the Lord while he may be found; call upon him while he is near.</hi> He is near to every one, yea, to show to every one his Thoughts; the <hi>Lord of Hosts</hi> is his Name: the Word is nigh in the heart and in the Mouth, that every one may hear it and do it; the more surer Word of <hi>Prophesie,</hi> the <hi>Ingrafted Word,</hi> which is able to save all that come unto him his Name is called the <hi>Word of God.</hi> This is the Word of <hi>Faith,</hi> which was delivered to the Saints; the in-speaking Word, the revealing Word, the
+<pb facs="tcp:172991:6"/> un<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Unlearned as well <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to the Learned, and none was found worthy in <hi>Heaven</hi> nor in <hi>Earth</hi> to open the Book; for which Cause <hi>John</hi> wept much: but the <hi>Lyon</hi> of the Tribe o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Judah,</hi> he prevailed to unloose the <hi>Seals</hi> thereof, he whose Name is called the <hi>Word of God,</hi> the <hi>Wonderful Councellor,</hi> the <hi>Prince of Peace,</hi> he that hath Command over all, he looseth the Tongue of the <hi>Dumb</hi> and of the <hi>Stammerer,</hi> and causeth them to speak plainly: with us he hath fulfilled his Promise in these last days, who saith, <hi>I will pour out my Spirit upon all Flesh, Sons and Daugh<g ref="char:EOLhyphen"/>ters, Servants and Handmaids.</hi> Unto whom he hath made known his great Power, and the day of God's mighty power is come: <hi>And in the day of my pow<g ref="char:EOLhyphen"/>er my people shall be a willing people.</hi> So the Lord's day is come, the acceptable day, a day of <hi>Salvation,</hi> a day of Glad-tidings unto the Poor; unto the Poor in Spirit, <hi>ye shall receive the Gospel:</hi> you that have been seeking from <hi>Hill</hi> unto <hi>Mountain</hi> for Rest, and have found none: Now the Seeker must return home to within, to find that there which you have been seeking abroad, you must come home to find it at home within thy own House, and seek and sweep there, for the Kingdom of God is <hi>within</hi> you: the lost piece of Silver which the Wo<g ref="char:EOLhyphen"/>man had lost, which she sought diligently, and swept her own House, and ne<g ref="char:EOLhyphen"/>ver left sweeping until she had found that which she lost; and when she had found it, being filled with Joy, she calleth to her Neighbours, saying, <hi>Rejoyce with me, for I have found that which I had lost.</hi> She could not contain it in her self no more than the Woman of <hi>Samaria</hi> could when she had found the Messi<g ref="char:EOLhyphen"/>ah at the Well, she goeth and leaveth her <hi>Pitcher,</hi> and hasteneth, being filled with good Matter, telling such glad tydings unto them, saying, <hi>Come and see a Man that told me all things that ever I did, is not this the Christ.</hi> So every one, when they come to see for themselves, it will be their <hi>Soul's</hi> Satisfaction, when they see his glorious shinings and breakings forth in their inward parts, <hi>when they see the rising of the Son of Righteousness with healing under his Wings,</hi> and such as have known the wounding for their Sins and Transgressions, they come to know the true Healing; <hi>Behold I wound, and I heal; I kill, and I make alive.</hi> Such come to know the good <hi>Samaritan,</hi> who did not leave them in their wounded state, nor passed by as the <hi>Priest</hi> and the <hi>Levite,</hi> but he came with the Oyl, and poured into the wound the Healing Oyl, the Oyl of Joy and Gladness, the Balm of <hi>Gilead,</hi> and with the Eye-salve he anointeth their Eyes, that they may see more and more him that is invisible, that they may eye his appearance, and behold his glorious shining forth, and such in their Light come to see more Light, and the Candle of God enlightens them more and more, and they cannot hide it under a Bushel, but set it on a Candlestick, to give light to the World, for <hi>Wisdom</hi> cryeth aloud this day, <hi>Wisdom she hath uttered her Voice, crying aloud in the Gates of the City, in the Concourse of the People, saying unto the Simple, turn in hither, and to the Foolish, how long will ye hate Instruction, for lo I have stretched out my hand, I would express my Mind unto you.</hi> There<g ref="char:EOLhyphen"/>fore hear the Voice of Wisdom, that you may learn the Fear of the Lord,
+<pb facs="tcp:172991:6"/> which will give you a good Understanding: <hi>reprove a wise man, and he <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> love thee; reprove a Fool, and he shall hate thee:</hi> and, <hi>He that hateth Reproof shall dye; the wise foreseeth the Snare and escapeth, but the Fool is taken therein.</hi>
+            </p>
+            <q>
+               <l>The Wilderness shall blossom as a Rose,</l>
+               <l>God's Work shall prosper though Men do it oppose:</l>
+               <l>Such is the Vertue that I feel,</l>
+               <l>The Fountain's open, which would the Nations heal.</l>
+            </q>
+            <p>The blessed day is come, the day which many have desired to see, the day which <hi>Abraham</hi> saw and rejoyced, <hi>Abraham saw my day and was glad: Abra<g ref="char:EOLhyphen"/>ham</hi> believed God, and the Promise of the Lord concerning him, and <hi>Abra<g ref="char:EOLhyphen"/>ham's Faith was imputed to him for Righteousness:</hi> so the Righteousness of <hi>Faith</hi> speaketh on this wise, <hi>In blessing I will bless thee, and thy Seed after thee; and in multiplying I will multiply thee and thy Seed, which shall be numberless a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sand on the Sea-shore, and as the Stars of Heaven for multitude.</hi> Yea, a num<g ref="char:EOLhyphen"/>berless number is the Lord gathering together in this the day of gathering, he is bringing them to <hi>Mount Zion,</hi> all the true <hi>Jews,</hi> who are <hi>Jews</hi> inwardly, of the <hi>Circumcision</hi> without hands, Spiritual <hi>Jews,</hi> who are come to the <hi>Spiritual Circumcision,</hi> and <hi>baptizing</hi> into the Spirit of Jesus; these are come to the Spiritual Day, unto the everlasting <hi>Sabbath Day,</hi> the one Day without Night, which is dawned unto them, and the Morning without Clouds, which is shin<g ref="char:EOLhyphen"/>ing forth in them; and <hi>John</hi> was in the Spirit upon the <hi>Lord's Day;</hi> and all must be gathered in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Spirit on the <hi>Lord's Day</hi> into the little Isle of <hi>Path<g ref="char:EOLhyphen"/>mos,</hi> where there are things, <hi>Visions</hi> unutterable unto those that are gathered into the Spirit out of the Flesh: <hi>And I heard a Voice, saying, and as the Sound of a Trumpet talking with me, saying, Come up hither, and I will shew thee the Bride, the Lamb's Wife, and he shewed me the New Jerusalem coming down from Heaven, prepared as a Bride for her Husband.</hi> Therefore hear what the Trumpet o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God saith, <hi>Prepare, hasten and come away.</hi>
+            </p>
+            <q>
+               <l>The Day is come, and now is known,</l>
+               <l>Where Jacob's Well is overflown:</l>
+               <l>And to the Ʋpright 'tis made known,</l>
+               <l>Ʋnto such as dwell at home.</l>
+               <l>And these Things they do feel,</l>
+               <l>The Waters of Life, which the wounded now does heal;</l>
+               <l>Great is the Sea, whose blessed Bounds are Love,</l>
+               <l>Whose Compassions unto his own doth move:</l>
+               <l>Great is the Love by which we are led home,</l>
+               <l>To sit again on our Father <hi>David's</hi> Throne:</l>
+               <l>Great is the Light by which we do now see,</l>
+               <l>The Glory of our Father <hi>Abraham's</hi> Day:</l>
+               <l>And greater Love was never known,</l>
+               <l>T<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> God the Father sendeth to his own.</l>
+            </q>
+            <pb facs="tcp:172991:7"/>
+            <p>And this is the Work of God, that you believe in him whom the Father hath sent: herein is the Father's Love manifested to the World, he hath sent his only Begotten, his First Born, that he should be believed on, and be made known and revealed, as saith <hi>Paul, As it pleased God, who separated me from my Mother's Womb, to reveal his Son in me.</hi> And <hi>Paul</hi> being a true Witness of the true Revelation of Jesus Christ, the true <hi>Light</hi> which enlightneth all Men saith on this wise. Who when he was persecuting him, was smitten by him that was the <hi>Light,</hi> who then opened his Eyes, which were before shut, and caused the <hi>Seales</hi> to fall off; after which he came to see that <hi>Light</hi> that so far exceed<g ref="char:EOLhyphen"/>ed the shining of the <hi>Sun</hi> in its brightness; so when the Eyes of the <hi>Blind</hi> are opened, they will then come to see, as <hi>Job</hi> saith, <hi>With these same Eyes shall I see my Redeemer.</hi> With the Eyes of the Understanding, the Eye of the Spirit which comes to see God. <hi>Blessed are the Pure in Heart, for they shall see God;</hi> and, <hi>If the Eye be single, then the whole Body comes to be full of Light:</hi> filled with God, who is <hi>Light,</hi> filled with his Fullness, and such receive Grace for Grace; and such Treasure we have in our Earthen Vessels, by which we come to sing Praise to God on high in the Firmament of his Power, who hath now fulfilled his Promise, who saith, <hi>I will teach my Peopls my self, and lead them by the Fountains of Water, I will be their Sheepherd and Leader, I will lead them gently on, and bare them that are with Young.</hi> So the day of God's Love is come; yea, <hi>Shiloh's</hi> day is come, yea <hi>Shiloh's</hi> shining day: and this was the Promise, <hi>The Scepter should not depart from Juda, nor a Lawgiver from between his Feet until Shiloh come.</hi> And so it was prophesied of him, that he should come in the Spirit and Power of <hi>Elijah</hi> the Prophet, and she should then turn the Heart of the Father to the Children, and the Hearts of the Children to the Father, and the Disobedient to the Wisdom of the Just: so he is doing such a Work as none ever did before: he saith, <hi>If I work the Work that none ever did before, then believe me for the Work's sake.</hi> Such are his Works of Wonders that he is now a doing, and they are marvelous in our Eyes: He whom the Grave could not hold, nor the Sepulchre contain, although He was Sealed down, nor the WATCHMEN could not hinder his <hi>Resurrection</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Ascending</hi> to the Father; but he ascended on high, he gave Gifts unto Men, even to the Rebellious, that he might dwell amongst them, <hi>He led Cap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivity Captive.</hi> So that that would hold him Captive, or Cap ivate the <hi>Seed</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God, must go into Captivity, He must become the Top Stone of the Build<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, the Chief in the Corner, he that fitly frames the Building together, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame is the Foundation Stone, the little Stone, little regarded by many, tram<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed upon by most, who tread the Blood of the <hi>Covenant</hi> under foot, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unt it an Unholy Thing: yea, many there be that set the Master of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouse at nought, and give him wrong Names, but the day is come, the clear <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight</hi> is shining forth, that discovers Truth from Errours, and Truth must <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me forth, and Light must shine over the Nation; yea, the Light of the glo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of God, and we have seen his Glory, as the Glory of the Onely Begotten <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of the Father, full of Grace and T<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed
+<pb n="9" facs="tcp:172991:7"/> Grace for Grace, so blessed are they who have the feeling, tasting, an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> handling, and savouring the things that are of God, <hi>have Salt in your selve<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then are ye the Salt of the Earth;</hi> and Salt seasons and Grace tasteth. So tha<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which we have tasted of the Spirit of the <hi>Tree of Life,</hi> that giveth a living tast<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of those things which are good, and a lively discerning of those things which come from God; only such have the Touchstone in them, the trying stone which tryeth the Spirits he that trieth all things, and searcheth all things <hi>even the deep things of God: This is the Spiritual Man, Christ, the New Man the second Adam, the Lord from Heaven, He that judgeth all things, and He himself is judged of none;</hi> although the wrong Judgment of his Enemies wa<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cast upon him, with the wrong Names that they gave him; for they called the Master of the House <hi>Belzeebub, chief of Devils,</hi> and many other hard Sayings, as many do now, naming him <hi>Bad Spirit,</hi> and <hi>wrong Spirit,</hi> putting <hi>Light</hi> for <hi>Darkness,</hi> and <hi>Darkness</hi> for <hi>Light,</hi> calling <hi>Good, Evil;</hi> and <hi>Evil, Good:</hi> yet behold the day of his shining forth in his Glory and Appearance in his Pow<g ref="char:EOLhyphen"/>er, in his great Power, in his great Glory and Majesty, is near, he is near to be revealed from Heaven in such a manner and way, that he will be known by his shining forth, and every eye shall see him to their great astonishment and amazement, then shall the <hi>Tribes</hi> of the Earth mourn, and weep and wail over him, and because of him whom they have pierced, as a Woman mourneth for her <hi>First Born:</hi> behold he will come, and he will not tarry; He will tread the <hi>Wine-Press, whose Feet are as fine Brass, whoss Eyes are as a flame of Fire,</hi> He will tread down his enemies in his fierce Anger, He that sitteth in Heaven, he will laugh them all to scorn, the Lord will have them in Derision.</p>
+            <p>
+               <hi>But whosoever believeth on me</hi> (saith Jesus Christ) <hi>out of his Belly shall flow Rivers of Living Water,</hi> or, <hi>a Well of water springing up unto Everlasting Life.</hi> Therefore spring up O Well, it is the Well of <hi>Jacob</hi> that waters the Flock, it is the <hi>Fountain</hi> and the <hi>Rock;</hi> He is the <hi>Rock</hi> of many Ages and Generations past, which Rock was Christ, the Rock which followed <hi>Israel,</hi> out of which Rock they drank, the Spiritual Rock of which all drink, and become <hi>Spiritu<g ref="char:EOLhyphen"/>ally-Minded,</hi> and to be <hi>Spiritually-Minded</hi> is Life and Peace, and these know the Rivers of God's Pleasures to flow in them, the <hi>Seed of Promise,</hi> who know the P<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omise of the Lord fulfilled in them: these are the Seed of <hi>Abraham</hi> after the Spirit, who know the sure Mercies of <hi>David</hi> renewed unto them, and these are renewed in the Spirit of their Minds by the renewing of the <hi>Holy Ghost;</hi> these know that Promise fulfilled in them, <hi>In blessing I will bless thee, and in multi<g ref="char:EOLhyphen"/>plying I will multiply thee:</hi> These feel the Joys of God's Salvation, they feel <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Captivity to be returned as the Rivers in the <hi>South,</hi> and such know a <hi>New Song</hi> put into their Mouths, who are Redeemed from the Earth and Earthly <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings, such come to reign as Priests and Kings, such come to know the Moun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain of the House of the God of <hi>Jacob</hi> to be established above the tops of the Mountains on the top of the Mountain of this World <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:172991:8"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Pastor,</hi> and leads them by the Fountains of Waters, and brings them to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e pleasant Springs, and causeth their Streams to flow in the Desart; he pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>areth a Table for them in the Wilderness, least they should faint in the way; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or such was the Compassion he had upon the <hi>Multitude,</hi> he would not <hi>send <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem away empty, least they should faint in the way.</hi> Such is his Compassion at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his day, the Poor shall not go empty away, the Hungry shall be filled; yea, <hi>Blessed are they that hunger and thirst after Righteousness, they shall be filled with Heavenly Bread, with Heavenly Mannah, with Angels Food:</hi> yea thus doth he fill the Faithful, whom nothing will satisfie below himself, who hath begot<g ref="char:EOLhyphen"/>ten this Hunger in them; these are begotten Children by the Father of Life into a Living state; these are Living Members of the Living Body of Christ, who have a Living Hope in him, <hi>Christ in them their Hope of Glory:</hi> these are of one Spirit with him, born of the Spirit, begotten by the Eternal Word of Life; such are not Children of the Flesh, nor of the <hi>Bond-Woman,</hi> but of the <hi>Free-Woman,</hi> which is Married, and in Covenant with Christ her <hi>Husband:</hi> these have one Beloved, as saith the true Spouse, <hi>My Beloved is the chiefest of ten thousand:</hi> and this is her Cry, <hi>Shew me the place where my Beloved feedeth his Flock, and causeth them to rest at Noon.</hi> Such are the true Travellers <hi>Zion</hi>-wards, that leave all behind them, and press forward until they come to behold him in <hi>Zion</hi> in <hi>perfect Beauty,</hi> in the <hi>Beauty of his Holiness:</hi> and <hi>glorious Things are spoken of thee, thou City of God,</hi> that Nations may flow unto thee from the Ends of the Earth to behold the glory of thy King, for a greater than <hi>Solomon</hi> is come, whose Glory and Fame, and the building of his House reacheth to the Ends of the Earth, which was the first House, at the sound thereof moved the Queen of the <hi>South</hi> to come up and see: so now at the building of the se<g ref="char:EOLhyphen"/>cond House, whose Glory shall be greater, and exceed all the Glory of the for<g ref="char:EOLhyphen"/>mer Building, and of the former House; at which sound and report many shall be moved to come and see it; yea, from the <hi>East</hi> and the <hi>West,</hi> the <hi>North</hi> and the <hi>South;</hi> then shall they say as the Queen of the <hi>South</hi> said unto <hi>Solomon,</hi> when she beheld his Wisdom, <hi>I have heard of thee by the hearing of the Ear, but not one half of what mine Eye doth now see was told me;</hi> and when she saw the Glory and Wisdom of his House, she was amazed, saying, <hi>No Spirit was left within her,</hi> admiring the Glory, Wisdom, and Order of it; much more now admirable and wonderful is the wisdom of the Building of the second House far exceeding the Glory of the first; which House ye are, who know the <hi>Spi<g ref="char:EOLhyphen"/>ritual Building,</hi> who are the Living Stones thereof, every Stone being Living and alive unto God, such are laid up in the Building, these are hewn Stones and squared Lively Stones, squared and fitted for the Building, made like un<g ref="char:EOLunhyphen"/>to the <hi>Corner Stone,</hi> like him in all things, as he is, so are they in this presen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World, Glorified with him; and when he appeareth who is our Life, then sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we appear in Glory with him, and be brought forth in the Likeness of the So<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Image; and this is that all the true Believers come t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:172991:8"/>
+               <hi>whom I again travel in Birth, <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> write unto you Young Men, because ye are strong, &amp; you have overcome the <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and the Word of God abideth in you.</hi> Which <hi>Word</hi> is Christ, the Power of God the Ingrafted Word, which saveth all which are saved by it with a might<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Salvation; and he that begun this good Work of this Spiritual Building o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Spiritual House, he will fitly frame it together, and compleat it to the glo<g ref="char:EOLunhyphen"/>ry of his own Name, to the sounding forth of his Fame to the Ends of th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earth. So then its by the Foolishness of Preaching that it pleaseth God t<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> save all them that shall <hi>Believe;</hi> so by the Foolishness of the <hi>Cross of Chris<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> which the Apostle Preach'd Foolishness unto the <hi>Greeks,</hi> but to the wise <hi>Jew<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> a Stumbling Block, and in <hi>Sion</hi> he was laid a Rock of Offence; so he is at th<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> day: <hi>But this is the new Commandment that I give unto you</hi> (unto his Desci<g ref="char:EOLunhyphen"/>ples) <hi>that ye love one another; and as the Father hath loved me, so have I love<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you, and so love ye one another with the same Love; abide in my Love, as I abid<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in my Fathers Love;</hi> and, <hi>He that hateth me hateth my Father also; herein <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your Love manifested, if ye love one another; and by this shall all Men know ye ar<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my Desciples, if ye love one another.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>These Things I could not conceal,</hi>
+               </l>
+               <l>
+                  <hi>Seeing my God doth the same Reveal;</hi>
+               </l>
+               <l>
+                  <hi>I could not them any longer keep,</hi>
+               </l>
+               <l>
+                  <hi>He hath opened the Fountain of the deep:</hi>
+               </l>
+               <l>
+                  <hi>I could not any longer hold,</hi>
+               </l>
+               <l>
+                  <hi>The little Book he doth unfold,</hi>
+               </l>
+               <l>
+                  <hi>In which little Book I come to read</hi>
+               </l>
+               <l>
+                  <hi>The Redemption of the</hi> Holy Seed;</l>
+               <l>
+                  <hi>Which</hi> Seed <hi>hath been long opprest,</hi>
+               </l>
+               <l>
+                  <hi>While the Nations have profest</hi>
+               </l>
+               <l>
+                  <hi>But God is coming to set it free,</hi>
+               </l>
+               <l>
+                  <hi>And to give</hi> Jacob's <hi>Seed the Victory;</hi>
+               </l>
+               <l>
+                  <hi>For One</hi> Jacob's <hi>Seed must now arise,</hi>
+               </l>
+               <l>
+                  <hi>Although the Proud do it despise,</hi>
+               </l>
+               <l>
+                  <hi>And hard things against it do devise:</hi>
+               </l>
+               <l>
+                  <hi>Yet</hi> Jacob's Seed <hi>now must Reign,</hi>
+               </l>
+               <l>
+                  <hi>And the Dragon he will chain,</hi>
+               </l>
+               <l>
+                  <hi>And he himself will sit on the Throne,</hi>
+               </l>
+               <l>
+                  <hi>And he will Govern his Church alone:</hi>
+               </l>
+               <l>
+                  <hi>But wo unto them that are in Pride,</hi>
+               </l>
+               <l>
+                  <hi>They</hi> Jacob's <hi>Seed cannot abide:</hi>
+               </l>
+               <l>
+                  <hi>Therefore of Pride let all beware,</hi>
+               </l>
+               <l>
+                  <hi>For</hi> Haman's <hi>Pride proved to him a Snare;</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Haman's <hi>Pride then must fall,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Seed <hi>of the</hi> Jews <hi>must arise over all;</hi>
+               </l>
+               <l>
+                  <hi>Before it</hi> Haman's <hi>Honour then must fall,</hi>
+               </l>
+               <l>
+                  <hi>For the</hi> Seed <hi>is come that will knock down all.</hi>
+               </l>
+               <pb facs="tcp:172991:9"/>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was <hi>Pharaoh,</hi> and he will be <hi>Pharaoh</hi> still,</l>
+               <l>And I have felt the Oppression of his Chariot Wheel;</l>
+               <l>But <hi>Pharaoh</hi> and his Chariot must be overthrown,</l>
+               <l>The Seed of the <hi>Jews</hi> must Reign Conquerour alone.</l>
+               <l>This to the proud Oppressours may prove sad News,</l>
+               <l>God will so honour the Seed of the <hi>Jews,</hi>
+               </l>
+               <l>It must Reign Conquerour alone, and sit on the Throne,</l>
+               <l>When Pharaoh and his Chariot Wheels are over thrown.</l>
+               <l>And these things I do so boldly sound,</l>
+               <l>That the Oppressed Seed shall at last wear the Crown.</l>
+               <l>And <hi>Jacob's</hi> Seed they have opprest,</l>
+               <l>While Perfection they have profest,</l>
+               <l>And such Oppression, they have opprest the Poor,</l>
+               <l>While they have sent them from Door to Door,</l>
+               <l>Such Oppression loud doth cry,</l>
+               <l>Against which God will let his Thunder fly;</l>
+               <l>These are the Marks of the Beast,</l>
+               <l>And spots in the Professor's Feast:</l>
+               <l>Of Perfection talk no more,</l>
+               <l>Such as are Oppressours of the Poor</l>
+               <l>And while such Reign in their Pride,</l>
+               <l>Surely they run without their Guide,</l>
+               <l>They run without the Morning Star,</l>
+               <l>Which would lead them to make War</l>
+               <l>Against all Pride and Oppression,</l>
+               <l>And lead them to the Heavenly Possession,</l>
+               <l>That they may see in the Light most clear,</l>
+               <l>And the Bridegroom's Voice come to hear,</l>
+               <l>And know their works wrought by him,</l>
+               <l>Who doth justifie the Sons of Men,</l>
+               <l>That the Justifier they may feel,</l>
+               <l>And Leader of them by his Skill;</l>
+               <l>That they may know how they do go</l>
+               <l>To do that or this, he leads them so</l>
+               <l>That they run not without a Guide,</l>
+               <l>And fall into the wickeds Pride:</l>
+               <l>And of this let all beware,</l>
+               <l>And follow Jacob's Morning Star;</l>
+               <l>Which will bring them to <hi>Bethlehem,</hi>
+               </l>
+               <l>Ʋnto the Stable and Manger then,</l>
+               <l>Where the Angels did <hi>Hosannah</hi> cry,</l>
+               <l>Peace on Earth, Hallelujah to God on high:</l>
+               <l>This was where the Babe was born,</l>
+               <pb facs="tcp:172991:9"/>
+               <l>Whom the <hi>Proud always did <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Now with <hi>Dives</hi> I must begin,</l>
+               <l>And him up into Remembrance bring,</l>
+               <l>That Oppressour of the Poor,</l>
+               <l>Who hath almost entred every Door,</l>
+               <l>Grieved <hi>Lazarus</hi> he did not know,</l>
+               <l>His Heart was hard, he was even so,</l>
+               <l>No Pity at all he would to him shew.</l>
+            </q>
+            <p>And this rich oppressour, this Glu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ton, no more than he doth know <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>zarus,</hi> no more doth the same Genera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of <hi>Oppressours</hi> know the poor Bre<g ref="char:EOLhyphen"/>thren of Christ now, seeing he saith, <hi>These are my Brethren:</hi> so was <hi>Lazarus,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o are all indeed, that are in <hi>Abraham's</hi> Bosome, though unknown to the Op<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ressours of the World, and to instance the words of Christ, who when the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of Man shall come and separate the <hi>Goats</hi> from the <hi>Sheep,</hi> and set the <hi>Sheep</hi> on his <hi>Right Hand,</hi> and the <hi>Goats</hi> on his <hi>Left;</hi> when they are indeed left of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, then they are on his <hi>Left Hand;</hi> and as he saith, <hi>Whither I go ye cannot come:</hi> then shall he say uno them, <hi>When I was hungry ye gave me no Meat, and when I was thirsty ye gave me no Drink, and when I was naked ye cloathed me no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and when I was sick and in Prison ye came not unto me.</hi> Then shall they answer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd say, <hi>Lord, when saw we thee a hungry, or when saw we thee thirsty, or nake<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd sick and in Prison, and came not unto thee.</hi> Then shall he answer and say unto them, <hi>Ye did it not unto the least of these my Brethren, ye did it not unto me.</hi> Surel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I must conclude this poor <hi>Lazarus</hi> to be one of Christ's Brethren, which the Rich Man did not see. So many have eyes and do not see, because the God of this World hath blinded the Eyes of their Mind while they are in the World. So the World by Wisdom know not God: So the certain <hi>Rich Man,</hi> after he was in his place of torment, he then looked up, he was then forced by the ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ream torment, whether he would or no; but he might have looked up in Life<g ref="char:EOLhyphen"/>time, but then he seeth afar off, despised <hi>Lazarus</hi> in <hi>Abraham's</hi> Bosome, afar off (as it is said) from him; it is afar off indeed from all the wise <hi>Worldlings,</hi> there is a Gulf fixed betwixt, a Gulf of Separation, into which many drop, and are drowned in <hi>Perdition,</hi> because of Unbelief: so this certain <hi>Rich Man,</hi> when he saw <hi>Lazarus</hi> in <hi>Abraham's</hi> Bosome, he calleth for him then when it was too late, he also calleth Father <hi>Abraham,</hi> he would fain have had <hi>Abraham</hi> to have been his Father when it was too late: Now instance the <hi>Jews</hi> also, in their Day and Time, they would have <hi>Abraham</hi> to be their Father; they say, <hi>VVe <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re of the Seed of Abraham, Abraham is our Father, we are not in Bondage.</hi> To whom Christ saith, <hi>If ye are of Abraham, why go ye about to kill me? They are of Abraham's Seed that do the VVorks of Abraham: Blessed are the Merciful, they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall obtain Mercy.</hi> And thus saith the Apostle, <hi>Entertain Strangers, therein ye <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall Entertain Angels unawares.</hi> Entertain the Visitations of God, let them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome by whomsoever they will, keep him not out as a Stranger, for he is a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tranger in the World, and will always be a Stranger to the Spirit of the World.
+<pb facs="tcp:172991:10"/> So <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is come, which the World cannot receive, but they tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do receive him must come out of the World, and love not the World, no the things of the World; <hi>For he that loveth the World and the Things of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World, hath not the Love of the Father in him.</hi> And Christ saith, <hi>I pray not fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the World, but for those that thou hast given me out of the World, that tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wouldst keep them while they are in the World from the Evil of the World; Father keep them in thy Name.</hi> His Name is his Power, is his Anointing; his Name is a precious Oin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment poured forth, therefore the Upright love him, and the wis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Virgins keep unto him, they are kept in his Name, in the Anointing which teacheth all things: this is <hi>Truth,</hi> the Spirit of <hi>Truth</hi> and Life, which sepa<g ref="char:EOLhyphen"/>rates from the World, and from the Spirit of it; and now we know we ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God, and the whole World lyeth in Wickedness; and by this we know tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit of <hi>Truth,</hi> the Comforter, which is come, which hath made a Separation first within, and also without; the Testimony of Jesus, which is the Spirit o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Prophesie,</hi> which he hath given unto us of his Spirit, which is the Leader and Guide of all the Faithful, of all the Children of God, they are led by the Spi<g ref="char:EOLhyphen"/>rit of God; unto us there is one <hi>God,</hi> one <hi>Lord,</hi> one <hi>Faith,</hi> one <hi>Baptisme,</hi> which is of the <hi>Holy Ghost:</hi> and the Life which we now live is by <hi>Faith</hi> in the Son o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God; these know their <hi>Growth,</hi> and <hi>Grow</hi> up in him that is true, now w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are in him that is true: these grow as Children, from one degree of Grace un<g ref="char:EOLhyphen"/>to another, from <hi>Faith</hi> unto <hi>Faith,</hi> from <hi>Strength</hi> unto <hi>Strength,</hi> unto the sta<g ref="char:EOLhyphen"/>ture of a strong Man in Christ, and from Glory to Glory they come to be tran<g ref="char:EOLhyphen"/>slated unto the Image of Holiness and glorious Life, that was before the World was; such are renewed dayly in the Spirit of their Minds by the Renewings of the <hi>Holy Ghost;</hi> such renew their strength, and they come to mount up<g ref="char:EOLhyphen"/>wards as on Eagles Wings, they mount above the World, and above the things of it, they come to reign as Kings and Priests unto God; these have a Habitation in the Heavens, and none can pluck them down, because he hold<g ref="char:EOLhyphen"/>eth them fast by his <hi>Right Hand,</hi> who is greater than all: and, <hi>my Father that gave them me is greater than all, and none is able to pluck them out of my Fathers Hands, and all that the Father hath given me, I have kept them,</hi> (saith Christ the true Shepherd) <hi>I have not lost one of them, no not one, except the Son of Per<g ref="char:EOLhyphen"/>dition.</hi> So he is the faithful Keeper and Preserver of Men; he preserveth his own in the hour of Temptation, and keepeth them in the Word of his Pati<g ref="char:EOLhyphen"/>ence, in the Ingrafted Word, which is able to save them with a mighty Salva<g ref="char:EOLhyphen"/>tion, he is able to save to the uttermost. Therefore look up, and be ye saved all ye Ends of the Earth, look up while you have a time, and while you have a day, and not delay 'till 'tis too late, as the <hi>Rich Glutton</hi> did, and remember and be warned in your Life-time, and repent, I say, <hi>Repent, repent, for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingdom of God is at hand, 'tis even at the Door:</hi> and the Seed of the King<g ref="char:EOLhyphen"/>dom is already sown in your Hearts, and had not the Lord left us a <hi>Seed,</hi> we had surely been as <hi>Sodom</hi> &amp; like to <hi>Gomorrah:</hi> &amp; this <hi>Seed</hi> is brought forth in some an hundred fold, and in some more; but where it is not brought forth, it ly<g ref="char:EOLhyphen"/>eth hidden, which is as the Grain of <hi>Mustard</hi> Seed, the least of all <hi>Seeds;</hi> so is
+<pb n="15" facs="tcp:172991:10"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Seed of the Kingdom compared, and indeed it is so little regarded by ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that is it, that it is so little regarded; but he that believeth in it, and he that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Faith as a Grain of <hi>Mustardseed,</hi> comes to see it grow as the greatest, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eatest of Trees, &amp; the fowls of the <hi>Air</hi> lodge under the Branches thereof, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wls of Heaven, the Fowls of Christ, they are that lodge under the <hi>Branches</hi> the true Vine Christ Jesus: these sit under their own Vine, &amp; under their own <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g-tree, Christ the Fig-tree; these eat of the fruits of the <hi>Tree of Life,</hi> which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ows in the midst of the Paradise of God; these come again unto Paradise, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to know the <hi>New Heavens</hi> and the <hi>New Earth</hi> again brought forth in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em; these have passed from Death unto Life, and are come thorow the Gulf <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d into the Good Land that <hi>flows with Milk &amp; Honey;</hi> such have known their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eavenly Change whil'st they are here, who have made <hi>their Calling and Ele<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion sure,</hi> who are sealed by the Spirit of Promise unto the Day of Redempti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: these can say, <hi>To live is Christ, but to dye is Gain;</hi> they gain a far exceed<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g Crown and weight of Glory, which is laid up for them that truly love the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppearance and Coming of the Lord Jesus Christ, but they have already re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived the Earnest of the Everlasting Inheritance, they have the Seal and wit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ess in them, and he that believeth, hath a Witness in himself of the Justifi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of the Spirit of Christ in them; so they may say truly, <hi>the Lord liveth,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erefore they live also, they feel that Life that the World know not of, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of that Meat that the World know not of, they are dayly fed with heaven<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bread: these are Children of the Father of Life, that can say, <hi>Our Father, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e us this day our dayly Bread,</hi> thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot live without it, nor without the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>joyment of the lifting up of the Glory and Light of his Countenance upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em: this m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes my heart more joyful and more glad, more than they that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave <hi>Corn</hi> and <hi>Wine,</hi> and <hi>Oyl,</hi> and full Increase: <hi>Dives</hi> had as much as all this, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it profits nothing if I should have the whole World, and the Favour of all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erein, what would it avail me, if I should be excluded from my Peace and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and Rest with God to all Eternity. O misery happens unto many, yea, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to many; yea verily, I have a sense upon me, how too many neglect the day <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods Visitations to their Souls, which is given them to work in, and are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere not twelve hours in a Day, work while it is called to day, <hi>work out your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lvation with Fear and Trembling:</hi> for he that doth not work out his Salvati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here, while he is here, will have no <hi>Salvation</hi> hereafter, although he may <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ok up when it is too late, as he saith, <hi>He cannot come hither:</hi> there will be no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming then, therefore while the Call is, come out of the <hi>Market Place,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t into the <hi>Vineyard,</hi> the <hi>Vineyard</hi> of the Lord of Hosts, and Labour there, at you may have your <hi>Penny;</hi> but they that come not into the <hi>Vineyard,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere will be no Reward, nor no <hi>Penny</hi> for them; for he that cometh at the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eventh Hour, he receiveth his Reward; but he that staid after, he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid too late; so there are twelve hours in the day, but the last hour is too <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, when there is but one hour to spend, and the Glass is almost run out, then thou would'st call over all the other that are past, then it will be too late, as
+<pb n="16" facs="tcp:172991:11"/> it was with <hi>Esau,</hi> when his <hi>Birthright</hi> was gone, all weeping and repen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could not get it again; yea, tho they may cry <hi>Lord, Lord,</hi> as the foolish V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gins did, saying, <hi>Open unto us:</hi> He will then answer unto them, <hi>I know ye n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ye workers of Iniquity:</hi> when the Door is shut, then it will be said, Rememb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou in thy Life time didst shut the Door of thy Heart against Christ, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would'st not let him enter, thou kep'st him out as a Stranger, until his Lock were bedewed as with the Dew of the Night, altho he often knocketh at <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Door of thy Heart, <hi>Behold I stand at the Door and knock;</hi> when thou kept him out, thou would'st have none of him, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>refore wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n 'tis too late he wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have none of thee; yea, tho thou call, he will not answer; <hi>He will laugh <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Calamities, and when their Distress cometh h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'ll not regard them.</hi> Seein<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th so ill with the wicked, <hi>Say unto the Wicked, it shall go ill with them say unto the Righteous, it shall go well with them: the Path of the Just is a burn<g ref="char:EOLhyphen"/>ing and a shining Light, shining more and more until the Perfect Day and in thy Light do we see Light, even that Light of Life.</hi> And they that wal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Just Man's Path, they come to profess and inherit Eternal Life; these r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceive the <hi>Light of Life</hi> that walk in the <hi>narrow Path,</hi> and go in at the <hi>Strait Gate,</hi> that so few go in at; and would'st thou be an <hi>Heir of Life,</hi> and of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Everlasting Inheritance,</hi> and <hi>Purchased Possession with the Saints and Sanctifie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ones,</hi> and rest with God, who inhabits <hi>Ete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nity,</hi> and dwelleth in the <hi>Ligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld'st thou have thy <hi>Heavenly-being</hi> with him &amp; with his holy Angels, wher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Hallelujah</hi> and <hi>Hosanna,</hi> and <hi>high Praises</hi> is sung unto him in the <hi>Highest,</hi> in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>New Jerusalem, where there is no Night there, nor need of the Sun, or Moon, n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Stars, but the Lord God and the Lamb is the Light thereof:</hi> and all that woul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come there, must fear to do Evil, and learn to do well, they must b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Schollar in Christ's School, as he faith, <hi>Learn of me, I will teach my People my self, the shall all know me, from the least of them to the greatest.</hi> He is their Lord and M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ster, these are Christ's Desciples, these know his Doctrine, these know a cea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing from Sin, and an end put thereunto, and everlasting Righteousness brough<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in; these come to say, <hi>Now there is no more Condemnation to those that are <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Christ Jesus, who walk not after the Flesh, but after the Spirit,</hi> such can say, <hi>Ble<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sed are the dead that dye in the Lord, yea, henceforth;</hi> so saith the Spirit, <hi>Bles<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are the dead that die in the Lord, they shall rest from their Labour, and their Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> follow them:</hi> with the innumerable Company of Angers, they do everlasting sing Praises and high Hallelujah in that endless and coelestial Glory, and res<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eternity, and World without End, where the <hi>Wicked</hi> cannot come, nor t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that worketh Abomination, nor maketh a Lye. So remember these things, and let the L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lay them to heart, and return into the <hi>House of Mourning,</hi> which would be better than to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>House of Mirth</hi> or <hi>Feasting;</hi> which becomes none that makes a high Profession, but <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dread the Living God, and work out thy Salvation with Fear and trembling; for witho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Work of God be wrought in thee, all thy Profession will be in vain.</p>
+            <p>From one that desires the Prosperity of the Work of the Lord, and desires that all sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> stand upon their Watch Tower, and wait for the Coming of the Lord, who saith, <hi>Behold <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quickly, I will not tarry; h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld fast till I come.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
